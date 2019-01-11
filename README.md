@@ -18,4 +18,6 @@ AccessPort
 ### 在串口中调试串口
 手动传入串口的name，调整波特率等参数
 主函数为Win10RXTXtest.java
-<p>该项目的改进版本，以及IDEA项目详情戳 → 项目[MyJavaUsb](https://github.com/bjdlbg/MyJavaUsb)
+<p>该项目的改进版本，以及IDEA项目详情戳 → 
+  项目[MyJavaUsb](https://github.com/bjdlbg/MyJavaUsb)
+      [MyJavaUsb](https://github.com/bjdlbg/MyJavaUsb)
