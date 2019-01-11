@@ -1,5 +1,5 @@
 # java
-串口通信程序以及三方jar包（serial port communication of Java）
+学期物联网实验，串口通信程序以及三方jar包（serial port communication of Java）
 
 ### 电脑端的串口接收端口
 AccessPort
